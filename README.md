@@ -22,28 +22,22 @@
   
   <img align="right" alt="Coding Anime Girl" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-  ```typescript
-  class Developer {
-    name: string = "Julio Caesar Ray Bakar Gani";
-    location: string = "Indonesia 🇮🇩";
-    interests: string[] = [
-      "💻 Coding",
-      "🎮 Gaming", 
-      "📱 Mobile Development",
-      "🌐 Web Development",
-      "🤖 AI & Machine Learning",
-      "🎌 Anime & Manga"
-    ];
-    
-    currentFocus() {
-      return "Building amazing applications with passion! ✨";
-    }
-    
-    funFact() {
-      return "I debug with the power of anime! 🔥";
-    }
-  }
-  ```
+  👋 Hi, I'm **Julio Caesar Ray Bakar Gani**  
+  📍 Based in **Indonesia** 🇮🇩
+
+  ### 🚀 What I'm passionate about:
+  - 💻 **Coding** - Building amazing applications
+  - 🎮 **Gaming** - Love exploring virtual worlds  
+  - 📱 **Mobile Development** - Creating mobile experiences
+  - 🌐 **Web Development** - Crafting beautiful websites
+  - 🤖 **AI & Machine Learning** - Exploring the future of tech
+  - 🎌 **Anime & Manga** - My source of inspiration
+
+  ### 🎯 Current Focus:
+  > Building amazing applications with passion! ✨
+
+  ### 🔥 Fun Fact:
+  > I debug with the power of anime!
   
 </div>
 
