@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Welcome%20to%20Julio's%20Realm&fontSize=40&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
   
   <!-- Anime Character GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://media1.tenor.com/m/eKGAx_bpgs4AAAAd/kagerou-project.gif" width="200" />
   
   <!-- Typing Animation -->
   <h1>
@@ -20,7 +20,7 @@
   
   ## 🌸 About Me 🌸
   
-  <img align="right" alt="Coding Anime Girl" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="Ene Takane Anime Girl" width="400" src="https://media1.tenor.com/m/r6td1Fay-vQAAAAd/ene-takane-enomoto.gif" />
   
   👋 Hi, I'm **Julio Caesar Ray Bakar Gani**  
   📍 Based in **Indonesia** 🇮🇩
