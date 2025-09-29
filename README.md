@@ -120,8 +120,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCaesarRBG&repo=Palm-oil-Counting-System-with-Django-web-interface-and-ESP32-integration&theme=tokyonight&bg_color=0D1117&title_color=87CEEB&text_color=ffffff&icon_color=87CEEB&border_color=87CEEB&hide_border=true" />
   </a>
   
-  <a href="https://github.com/JulioCaesarRBG/ChangeAPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCaesarRBG&repo=ChangeAPP&theme=tokyonight&bg_color=0D1117&title_color=87CEEB&text_color=ffffff&icon_color=87CEEB&border_color=87CEEB&hide_border=true" />
+  <a href="https://github.com/JulioCaesarRBG/Potato-Counter-Desktop-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCaesarRBG&repo=Potato-Counter-Desktop-App&theme=tokyonight&bg_color=0D1117&title_color=87CEEB&text_color=ffffff&icon_color=87CEEB&border_color=87CEEB&hide_border=true" />
   </a>
     
   </div>
