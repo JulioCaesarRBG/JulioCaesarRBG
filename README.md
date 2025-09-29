@@ -121,7 +121,7 @@
   </a>
   
   <a href="https://github.com/JulioCaesarRBG/Potato-Counter-Desktop-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCaesarRBG&repo=Potato-Counter-Desktop-App&theme=tokyonight&bg_color=0D1117&title_color=87CEEB&text_color=ffffff&icon_color=87CEEB&border_color=87CEEB&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCaesarRBG&repo=Potato-Counter-Desktop-App&theme=tokyonight&bg_color=0D1117&title_color=87CEEB&text_color=ffffff&icon_color=87CEEB&border_color=87CEEB&hide_border=true&cache_seconds=1800" />
   </a>
     
   </div>
