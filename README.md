@@ -149,7 +149,7 @@
 <div align="center">
   
   <!-- Anime Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=電子欲の旅は続く　蒼い羅針盤が指す先へ%0AThe%20journey%20of%20the%20cybernetic%20desire%20continues,%20right%20where%20the%20blue%20compass%20points%20to.&author=Ene%20no%20Dennou%20Kikou\" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=\"電子欲の旅は続く　蒼い羅針盤が指す先へ\"%0A\"The%20journey%20of%20the%20cybernetic%20desire%20continues,%20right%20where%20the%20blue%20compass%20points%20to.\"&author=Ene%20no%20Dennou%20Kikou" />
   
   <!-- Animated Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer&animation=fadeIn" />
