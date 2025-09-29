@@ -32,12 +32,6 @@
   - 🌐 **Web Development** - Crafting beautiful websites
   - 🤖 **AI & Machine Learning** - Exploring the future of tech
   - 🎌 **Anime & Manga** - My source of inspiration
-
-  ### 🎯 Current Focus:
-  > Building amazing applications with passion! ✨
-
-  ### 🔥 Fun Fact:
-  > I debug with the power of anime!
   
 </div>
 
