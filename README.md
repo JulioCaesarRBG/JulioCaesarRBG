@@ -149,7 +149,11 @@
 <div align="center">
   
   <!-- Anime Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=電子欲の旅は続く　蒼い羅針盤が指す先へ%0AThe%20journey%20of%20the%20cybernetic%20desire%20continues,%0Aright%20where%20the%20blue%20compass%20points%20to.&author=Ene%20no%20Dennou%20Kikou" />
+  <div align="center">
+    <h3>"電子欲の旅は続く　蒼い羅針盤が指す先へ"</h3>
+    <h4>"The journey of the cybernetic desire continues, right where the blue compass points to."</h4>
+    <p><em>- Ene no Dennou Kikou</em></p>
+  </div>
   
   <!-- Animated Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer&animation=fadeIn" />
@@ -158,9 +162,4 @@
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" />
   
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
